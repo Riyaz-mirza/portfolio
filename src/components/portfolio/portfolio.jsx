@@ -23,8 +23,8 @@ const portfolio = () => {
 
             <h3>Donationally Managment System</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/" className='btn' target='_blank'>GitHUb</a>
-            <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/" className='btn' target='_blank'rel="noreferrer">GitHUb</a>
+            <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank'rel="noreferrer">Live Demo</a>
             </div>
          </article>
 
@@ -35,8 +35,8 @@ const portfolio = () => {
 
             <h3>wether App</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/" className='btn' target='_blank'>GitHUb</a>
-            <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/" className='btn' target='_blank'rel="noreferrer">GitHUb</a>
+            <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank'rel="noreferrer">Live Demo</a>
             </div>
          </article>
 
@@ -47,8 +47,8 @@ const portfolio = () => {
 
             <h3>Hex color changer</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/" className='btn' target='_blank'>GitHUb</a>
-            <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/" className='btn' target='_blank' rel="noreferrer">GitHUb</a>
+            <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
             </div>
          </article>
 
@@ -59,8 +59,8 @@ const portfolio = () => {
 
             <h3>Calculator</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/" className='btn' target='_blank'>GitHUb</a>
-            <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/" className='btn' target='_blank' rel="noreferrer">GitHUb</a>
+            <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank'rel="noreferrer">Live Demo</a>
             </div>
          </article>
 
@@ -71,8 +71,8 @@ const portfolio = () => {
 
             <h3>Movie Ticket Booking System</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/" className='btn' target='_blank'>GitHUb</a>
-            <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/" className='btn' target='_blank' rel="noreferrer">GitHUb</a>
+            <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
             </div>
          </article>
 
@@ -83,8 +83,8 @@ const portfolio = () => {
 
             <h3>Face detaction System</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/" className='btn' target='_blank'>GitHUb</a>
-            <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/" className='btn' target='_blank' rel="noreferrer">GitHUb</a>
+            <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
             </div>
          </article>
       </div>
