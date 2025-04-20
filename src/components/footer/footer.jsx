@@ -8,11 +8,11 @@ const footer = () => {
   return (
     
       <footer>
-      <a href='#' role="button" className='footer__logo'>RIYAZ MIRZA</a>
+      <a href='#' className='footer__logo'>RIYAZ MIRZA</a>
 
       <ul className="permalinks">
-        <li><a role="button">Home</a></li>
-        <li><a href="#about">About</a></li>
+        <li><a href="#" >Home</a></li>
+        <li><a href="#about">About</a></li> 
         <li><a href="#experience">Experience</a></li>
         <li><a href="#Services">Services</a></li>
         <li><a href="#Portfolio">Portfolio</a></li>
