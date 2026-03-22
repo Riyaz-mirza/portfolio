@@ -28,6 +28,9 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
+.ManyText{
+     font-size: x-large;
+}
 
 /* MEDIA  QURIES (MEDIUM DEVICES) */
 @media screen and (max-width:1024px){

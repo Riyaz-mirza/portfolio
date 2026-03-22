@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from'../../assets/donations.png'
-import IMG2 from'../../assets/portfolio2.jpg'
+import IMG2 from'../../assets/portfolio2.png'
 import IMG3 from'../../assets/portfolio3.jpg'
 import IMG4 from'../../assets/portfolio4.jpg'
 import IMG5 from'../../assets/portfolio5.png'
@@ -33,10 +33,10 @@ const portfolio = () => {
             <img src={IMG2}alt="" />
           </div>
 
-            <h3>wether App</h3>
+            <h3>Church pharmacy</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com/" className='btn' target='_blank'rel="noreferrer">GitHUb</a>
-            <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank'rel="noreferrer">Live Demo</a>
+            <a href="https://churchpharmacy.co.uk/" className='btn btn-primary' target='_blank'rel="noreferrer">Live Demo</a>
             </div>
          </article>
 
@@ -52,7 +52,7 @@ const portfolio = () => {
             </div>
          </article>
 
-         <article className='portfolio__item'>
+         {/* <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG4}alt="" />
           </div>
@@ -86,8 +86,10 @@ const portfolio = () => {
             <a href="https://github.com/" className='btn' target='_blank' rel="noreferrer">GitHUb</a>
             <a href="https://dribbble.com/shots/20251645-Sleep-Tracker-Apps" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
             </div>
-         </article>
+         </article> */}
+         <bold class="ManyText">Many more....</bold>
       </div>
+      
     </section>
   )
 }

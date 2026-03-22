@@ -25,7 +25,7 @@ const about = () => {
           <article className='about__card'>
             <FaAward className= 'about__icon'/>
             <h5>Experience</h5>
-            <small>3 Month of Experience</small>
+            <small> 3.8 Years of Experience</small>
           </article>
 
           <article className='about__card'>
@@ -42,9 +42,13 @@ const about = () => {
         </div>
 
         <p>
-          Hello All , I am Riyaz Mirza. From Vadodara,Gujarat. I am a web developer. with a good skills and 
-          somehow experienced in this field. So here I am sharing My everything with you Guy's . So I mentioned 
-          My everything here. Bye
+         Hello, I’m Riyaz Mirza from Vadodara, Gujarat. I am a passionate Full Stack Web Developer with experience in building scalable and user-friendly applications.
+
+I specialize in technologies like <strong className="tech-highlight">
+  .NET Core, ASP.NET MVC, Angular, SQL Server, and Azure
+</strong>, and have worked on enterprise-level as well as e-commerce projects. I enjoy solving real-world problems through code and continuously improving my skills to stay updated with modern technologies.
+
+Feel free to explore my work and projects!
           <GiShakingHands className='hello'/>
         </p>
 

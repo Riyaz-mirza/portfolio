@@ -68,7 +68,10 @@
     color: aqua;
     
 }
-
+.tech-highlight {
+  color: #00bcd4;
+  font-weight: 600;
+}
 /* MEDIA  QURIES (MEDIUM DEVICES) */
 @media screen and (max-width:1024px){
    .about__container{
